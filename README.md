@@ -1,21 +1,19 @@
 # weather-cli for command line
 
-Application to provide weather in the desired city/state (USA only). Shows temperature, how it feels, wind speed, humidity and an icon.
+Приложение для предоставления погоды в нужном городе/штате(США только). Показывает температуру, как ощущается, скорость ветра, влажность и иконку.
 
-
-
-#how to install App
+#Как установить App
  
 npm i weather-cli-easy
 
 
-#how to use App
+#Как использовать App
  
 weather -t [API_TOKEN] -s [CITY]
 
 weather
 
-You can use city in different languages, for example:
+Города можно писать на разных языках, пример:
 
 weather -s ульяновск
 
