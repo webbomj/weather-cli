@@ -1,10 +1,10 @@
 ﻿# weather-cli for command line
 
-#how to install App
+﻿##how to install App
 npm i weather-cli-easy
 
 
-#how to use App
+﻿##how to use App
 weather -t [API_TOKEN] -s [CITY]
 weather
 
