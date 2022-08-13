@@ -4,22 +4,27 @@
 
 #Как установить App
  
-npm i weather-cli-easy
+`npm i weather-cli-easy`
 
 
-#Как использовать App
- 
+## Как использовать App
+```bush
 weather -t [API_TOKEN] -s [CITY]
-
+```
+```bush
 weather
-
+```
 Города можно писать на разных языках, пример:
-
+```bush
 weather -s ульяновск
-
+```
+```bush
 weather
+```
 
-
+```bush
 weather -s moscow
-
+```
+```bush
 weather
+```
