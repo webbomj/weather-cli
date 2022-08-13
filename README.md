@@ -4,9 +4,9 @@
 
 #Как установить App
  
-`npm i weather-cli-easy`
-Получите токен у [openweathermap]<br>
-(https://openweathermap.org/api)<br>
+`npm i weather-cli-easy`<br>
+Получите токен у [openweathermap](https://openweathermap.org/api)<br>
+
 
 
 ## Как использовать App
